@@ -11,6 +11,8 @@ Tool wie `ruff`. Mit diesem Plugin wirft man schnell einen Blick hinein
 (und macht kleine Änderungen), ohne Total Commander zu verlassen oder
 einen vollwertigen Editor aufzumachen.
 
+<img width="961" height="1042" alt="2026-09-14_204255" src="https://github.com/user-attachments/assets/6934f617-2b91-4c11-bfd2-b4384df86f7e" />
+
 ## Funktionen
 
 - **Grid-Ansicht**: Baum links (Struktur), Tabelle rechts (Key / Type /
