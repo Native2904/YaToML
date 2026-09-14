@@ -4,11 +4,12 @@ Ein Total-Commander-Lister-Plugin (WLX) zum Anzeigen und Bearbeiten von
 **YAML**- und **TOML**-Dateien als Baum-plus-Tabellen-Ansicht statt als
 reinen Text.
 
-YAML und TOML begegnen einem in der modernen Entwicklung ständig: Docker
-Compose, Kubernetes-Manifeste, GitHub-Actions-/GitLab-CI-Workflows,
-Ansible-Playbooks und Helm-Charts (YAML), sowie `Cargo.toml` in jedem
-Rust-Projekt und `pyproject.toml` für modernes Python-Packaging und
-Tools wie `ruff` oder `black` (TOML).
+YAML und TOML begegnen einem beim Durchstöbern von Ordnern öfter, als
+man denkt – eine `docker-compose.yml` für ein Container-Setup, eine
+`Cargo.toml` in einem Rust-Projekt, oder eine `pyproject.toml` für ein
+Tool wie `ruff`. Mit diesem Plugin wirft man schnell einen Blick hinein
+(und macht kleine Änderungen), ohne Total Commander zu verlassen oder
+einen vollwertigen Editor aufzumachen.
 
 ## Funktionen
 
