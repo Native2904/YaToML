@@ -3,11 +3,11 @@
 A Total Commander Lister plugin (WLX) for viewing and editing **YAML** and
 **TOML** files as a tree + table grid, instead of raw text.
 
-YAML and TOML are everywhere in modern development: Docker Compose,
-Kubernetes manifests, GitHub Actions / GitLab CI workflows, Ansible
-playbooks, and Helm charts (YAML), as well as `Cargo.toml` for every Rust
-project and `pyproject.toml` for modern Python packaging and tools like
-`ruff` and `black` (TOML).
+YAML and TOML show up more often than you might expect while browsing
+files — a `docker-compose.yml` for a container setup, a `Cargo.toml` in
+a Rust project, or a `pyproject.toml` configuring a Python tool like
+`ruff`. This plugin lets you take a quick look (and make small edits)
+without leaving Total Commander or opening a full editor.
 
 ## Features
 
