@@ -8,9 +8,7 @@ YAML і TOML постійно трапляються в сучасній роз�
 маніфести Kubernetes, workflow-файли GitHub Actions/GitLab CI, плейбуки
 Ansible та Helm-чарти (YAML), а також `Cargo.toml` у кожному проєкті на
 Rust і `pyproject.toml` для сучасного пакування Python та таких
-інструментів, як `ruff` чи `black` (TOML). Будь-який розробник, що
-переглядає папки проєктів у Total Commander, постійно натрапляє на такі
-файли.
+інструментів, як `ruff` чи `black` (TOML).
 
 ## Можливості
 
