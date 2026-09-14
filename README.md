@@ -7,8 +7,7 @@ YAML and TOML are everywhere in modern development: Docker Compose,
 Kubernetes manifests, GitHub Actions / GitLab CI workflows, Ansible
 playbooks, and Helm charts (YAML), as well as `Cargo.toml` for every Rust
 project and `pyproject.toml` for modern Python packaging and tools like
-`ruff` and `black` (TOML). Any developer browsing a project directory in
-Total Commander runs into these files constantly.
+`ruff` and `black` (TOML).
 
 ## Features
 
