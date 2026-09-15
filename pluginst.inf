@@ -1,7 +1,6 @@
 [plugininstall]
 type=wlx
-description=YaToML Tree/grid viewer and editor for YAML and TOML files
-file=yatoml.wlx64
 file=yatoml.wlx
-defaultdir=YaToML
-version=0.x
+description=YAML/TOML viewer & editor — grid view, inline edit, comments preserved on save
+defaultdir=%COMMANDER_PATH%\Plugins\wlx\YaToML
+defaultextension=yaml yml toml

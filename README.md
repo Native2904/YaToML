@@ -9,9 +9,6 @@ a Rust project, or a `pyproject.toml` configuring a Python tool like
 `ruff`. This plugin lets you take a quick look (and make small edits)
 without leaving Total Commander or opening a full editor.
 
-<img width="961" height="1042" alt="2026-09-14_204255" src="https://github.com/user-attachments/assets/6934f617-2b91-4c11-bfd2-b4384df86f7e" />
-
-
 ## Features
 
 - **Grid view**: tree on the left (structure), table on the right (Key /
