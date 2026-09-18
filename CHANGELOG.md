@@ -24,6 +24,7 @@ First public release.
   `language_<code>.ini`, selected in `yatoml.ini`
 - Escape closes the Lister window (cancels an in-progress edit first, if
   any)
+- Czech language added
 
 ### Known limitations
 - YAML: multi-line block scalars (`|`, `>`) and flow-style values
